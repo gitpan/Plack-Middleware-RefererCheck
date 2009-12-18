@@ -22,8 +22,9 @@ no_index:
 requires:
   Filter::Util::Call: 0
   Plack: 0.9023
+  parent: 0
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/nihen/Plack-Middleware-RefererCheck.git
-version: 0.01
+version: 0.02
